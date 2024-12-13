@@ -30,9 +30,9 @@ This study presented five detailed scoring criteria for quantitatively analyzing
 ## 사용 방법 (How to Use) 
 
 
-1. [Animal Inventory File](https://github.com/YaeRin-Yoo/Animal-Fluency_correct-response-analysis/blob/aeefec559668a02a6979cad54a0dd6658c8b29fb/Animal%20Inventory%20File_240813.csv) 다운 받기
+1. [Animal Inventory File](Animal Inventory File_241213.csv) 다운 받기
 
-Download the [Animal Inventory File](https://github.com/YaeRin-Yoo/Animal-Fluency_correct-response-analysis/blob/aeefec559668a02a6979cad54a0dd6658c8b29fb/Animal%20Inventory%20File_240813.csv)
+Download the [Animal Inventory File](Animal Inventory File_241213.csv)
 
 
   + Correct responses analysis를 위한 자동 분석은 해당 Animal Inventory File에 기반해 이루어진다.
