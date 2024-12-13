@@ -114,7 +114,7 @@ When using the animal classification criteria or automated analysis methods, cit
 ## 업데이트 정보 (Update Information)
 
 
-Last Update : 2024.10.18
+Last Update : 2024.12.13
 
 
 
